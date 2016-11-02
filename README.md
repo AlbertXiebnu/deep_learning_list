@@ -6,7 +6,7 @@ Recent deep learning paper and code list for research purpose.
 - [NLP](#nlp)
 - [Image Caption](#Image Caption)
 - [Attention,Memory,Reasoning](#Attention,Memory,Reasoning)
-- [ RNN,LSTM](# RNN,LSTM)
+- [RNN,LSTM](# RNN,LSTM)
 - [CNN](#CNN)
 - [GAN](#GAN)
 
